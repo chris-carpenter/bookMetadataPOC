@@ -1,0 +1,142 @@
+{
+  "keys": {
+    "kindle": 0,
+    "audio": "00:00:43"
+  },
+  "name": {
+    "display": "Name",
+    "value": "????"
+  },
+  "age": {
+    "display": "Age",
+    "value": "1 minute"
+  },
+  "jobs": {
+    "display": "Jobs",
+    "greaterToyGolem": {
+      "display": "Greater Toy Golem",
+      "value": {
+        "level": {
+          "display": "Level",
+          "value": 1
+        },
+        "skills": {
+          "display": "Skills",
+          "value": {
+            "adorable": {
+              "display": "Adorable",
+              "value": 1
+            },
+            "giftOfSapience": {
+              "display": "Gift of Sapience",
+              "value": "NA"
+            },
+            "golemBody": {
+              "display": "Golem Body",
+              "value": 1
+            },
+            "magicResistance": {
+              "display": "Magic Resistance",
+              "value": 1
+            }
+          }
+        }
+      }
+    }
+  },
+  "attributes": {
+    "display": "Attributes",
+    "value": {
+      "strength": {
+        "display": "Strength",
+        "value": 4
+      },
+      "constitution": {
+        "display": "Constitution",
+        "value": 16
+      },
+      "intelligence": {
+        "display": "Intelligence",
+        "value": 2
+      },
+      "wisdom": {
+        "display": "Wisdom",
+        "value": 11
+      },
+      "dexterity": {
+        "display": "Dexterity",
+        "value": 6
+      },
+      "agility": {
+        "display": "Agility",
+        "value": 3
+      },
+      "charisma": {
+        "display": "Charisma",
+        "value": 2
+      },
+      "willpower": {
+        "display": "Willpower",
+        "value": 10
+      },
+      "perception": {
+        "display": "Perception",
+        "value": 5
+      },
+      "luck": {
+        "display": "Luck",
+        "value": 5
+      }
+    }
+  },
+  "pools": {
+    "display": "Pools",
+    "value": {
+      "hitPoints": {
+        "display": "Hit Pooints",
+        "value": 50
+      },
+      "sanity": {
+        "display": "Sanity",
+        "value": 13
+      },
+      "stamina": {
+        "display": "Stamina",
+        "value": 19
+      },
+      "moxie": {
+        "display": "Moxie",
+        "value": 12
+      },
+      "fortune": {
+        "display": "Fortune",
+        "value": 10
+      }
+    }
+  },
+  "defenses": {
+    "display": "Defenses",
+    "value": {
+      "armor": {
+        "display": "Armor",
+        "value": 10
+      },
+      "mentalFortitude": {
+        "display": "Mental Fortitude",
+        "value": 20
+      },
+      "endurance": {
+        "display": "Endurance",
+        "value": 20
+      },
+      "cool": {
+        "display": "Cool",
+        "value": 20
+      },
+      "fate": {
+        "display": "Fate",
+        "value":1
+      }
+    }
+  }
+}
